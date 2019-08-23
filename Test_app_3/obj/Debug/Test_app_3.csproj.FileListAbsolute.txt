@@ -1,0 +1,20 @@
+C:\Users\Eric\source\repos\Test_app_3\Test_app_3\bin\Debug\Test_app_3.exe.config
+C:\Users\Eric\source\repos\Test_app_3\Test_app_3\bin\Debug\Test_app_3.exe
+C:\Users\Eric\source\repos\Test_app_3\Test_app_3\bin\Debug\Test_app_3.pdb
+C:\Users\Eric\source\repos\Test_app_3\Test_app_3\obj\Debug\Test_app_3.csprojAssemblyReference.cache
+C:\Users\Eric\source\repos\Test_app_3\Test_app_3\obj\Debug\Test_app_3.Form1.resources
+C:\Users\Eric\source\repos\Test_app_3\Test_app_3\obj\Debug\Test_app_3.Properties.Resources.resources
+C:\Users\Eric\source\repos\Test_app_3\Test_app_3\obj\Debug\Test_app_3.csproj.GenerateResource.cache
+C:\Users\Eric\source\repos\Test_app_3\Test_app_3\obj\Debug\Test_app_3.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\Test_app_3\Test_app_3\obj\Debug\Test_app_3.exe
+C:\Users\Eric\source\repos\Test_app_3\Test_app_3\obj\Debug\Test_app_3.pdb
+D:\Dokument\C# learn\Test_app_3\Test_app_3\bin\Debug\Test_app_3.exe.config
+D:\Dokument\C# learn\Test_app_3\Test_app_3\bin\Debug\Test_app_3.exe
+D:\Dokument\C# learn\Test_app_3\Test_app_3\bin\Debug\Test_app_3.pdb
+D:\Dokument\C# learn\Test_app_3\Test_app_3\obj\Debug\Test_app_3.csprojAssemblyReference.cache
+D:\Dokument\C# learn\Test_app_3\Test_app_3\obj\Debug\Test_app_3.Properties.Resources.resources
+D:\Dokument\C# learn\Test_app_3\Test_app_3\obj\Debug\Test_app_3.csproj.GenerateResource.cache
+D:\Dokument\C# learn\Test_app_3\Test_app_3\obj\Debug\Test_app_3.csproj.CoreCompileInputs.cache
+D:\Dokument\C# learn\Test_app_3\Test_app_3\obj\Debug\Test_app_3.exe
+D:\Dokument\C# learn\Test_app_3\Test_app_3\obj\Debug\Test_app_3.pdb
+D:\Dokument\C# learn\Test_app_3\Test_app_3\obj\Debug\Test_app_3.First_layer.resources
