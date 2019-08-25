@@ -18,6 +18,7 @@ namespace Test_app_3
 
         private int counter = 0; //counter for amount of clicks
         private PictureBox tmp_pic = new PictureBox();
+        private PictureBox[] boxes;
 
 
         public First_layer()
@@ -27,6 +28,11 @@ namespace Test_app_3
 
             //Set_all_images_and_positions(); //sets all the relevant images
 
+            PictureBox[] boxes = {
+            pictureBox1, pictureBox2, pictureBox3, pictureBox4, pictureBox5, pictureBox6,
+            pictureBox7, pictureBox8, pictureBox9, pictureBox10, pictureBox11, pictureBox12,
+            pictureBox13, pictureBox14, pictureBox15, pictureBox16
+            };
 
 
             pictureBox1.Click += new EventHandler(Do_Move_image);
@@ -103,10 +109,16 @@ namespace Test_app_3
             tmp_pic.Image = null;
             tmp_pic.BorderStyle = BorderStyle.FixedSingle;
         }
-
+        
 
         private void Set_all_images_and_positions()
         {
+            foreach (PictureBox box in boxes) //clear all images
+            {
+                box.Image = null;
+
+            }
+
             Image img = Image.FromFile(@"Resources\test_img2.png");
             pictureBox1.Image = new Bitmap(img, 30, 30);
 
